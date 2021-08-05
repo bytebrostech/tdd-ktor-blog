@@ -1,0 +1,1 @@
+rootProject.name = "bytebros.net.tdd-ktor-blog"
